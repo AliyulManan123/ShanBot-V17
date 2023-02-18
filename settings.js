@@ -11,45 +11,45 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 autoread = true
 ///Gantien dewe sak karepmu..,
-global.pulsa = "628xxx"
-global.gopay = "628xxx"
-global.dana = "628xxx"
-global.packname = 'Lenttobs'
-global.footer = '©Maslent'
-global.ovo = "628xxx"
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxx'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xxx"//ubah nomorhp owner
-global.premium = ['6285xxxxxxx3']//ubah nomor hp premium
-global.nomorcs = '628xxxxxxx'
-global.botname = 'BotWhangsafV13' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.pulsa = "6283146993017"
+global.gopay = "6283146993017"
+global.dana = "6283146993017"
+global.packname = 'ShanBots'
+global.footer = '©ShanBots'
+global.ovo = "6283146993017"
+global.ownerlen = "إحسان"//Ubah
+global.owner = ['6283146993017'] //ubh nomor owner hp
+global.ownername = "إحسان" //ubah
+global.ytname = "FB: X Shan"//ubah
+global.socialm = "IG: malasnulisnamapengguna"//ubah
+global.location = "Indonesia, Jawatimur, Tuban"//ubah
+global.ownernomer = "6283146993017"//ubah nomorhp owner
+global.premium = ['6283146993017']//ubah nomor hp premium
+global.nomorcs = '6283146993017'
+global.botname = 'ShanBots' //ubah
+global.linkz = "https://chat.whatsapp.com/IpWP0AiNMLTAFKoVGaiMKg"//ubah
+global.websitex = "aliyulmanan.blogspot.com"//ubah
 global.botscript = '-'
-global.themeemoji = "😿"//ubah
+global.themeemoji = "☞⁠ "//ubah
 global.packname = "Sticker By"//ubah
-global.author = "Made by"//ubah
-global.wm = "Lenttobs"//ubah
+global.author = "ShanBots × إحسان"//ubah
+global.wm = "ShanBots × إحسان"//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Piye?!', //isien dewe Gantien bahasane Muales pol aku sak karepmu 
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'Done ✓', //isien dewe Gantien bahasane Muales pol aku sak karepmu 
+    admin: '< ❗ > Mohon Maaf Fitur Hanya Bisa Di Gunakan Oleh Admin Group!!',
+    botAdmin: '< ❗ > Mohon Maaf Fitur Hanya Bisa Di Gunakan Apabila Bot Dijadikan Admin Group!!',
+    premime: '< ❗ > Mohon Maaf Fitur Hanya Bisa Di Gunakan Oleh Member Premium, Beli dulu sana!!!',
+    owner: '< ❗ > Lo bukan owner gw njir, Jadi nggak usah coba-coba pakek fitur ini!',
+    group: '< ❗ > Mohon Maaf Fitur Hanya Bisa Di Gunakan didalam Group!!',
+    private: '< ❗ > Mohon Maaf Fitur Hanya Bisa Di Gunakan di Private Chat!',
+    bot: 'Fitur khusus bot!',
+    wait: 'Permintaan mu sedang diproses, Sabar yakak, Jika bot tidak merespon berarti bot terjadi error!.',
+    linkm: 'Linknya mana kak?',
+    endLimit: '< ❗ > Limit Kamu Telah Habis!! Tunggu 12 jam Atau bisa membeli paket Limit',
+    nsfw: '< ❗ > Fitur NSFW dinonaktifkan oleh owner, Hubungi owner untuk mengaktifkannya',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
